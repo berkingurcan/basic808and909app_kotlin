@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">basic808app_kotlin</string>
+    <string name="soundType">Sound Type: %s</string>
+</resources>
